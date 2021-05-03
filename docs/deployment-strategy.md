@@ -22,6 +22,7 @@ We are going to follow semantic versionning.
 | bugfix/\*   | kind of branch used when working on bug fixes. (merged on develop)                        |
 
 _Example of branching flow for 2 sprints_
+
 ![](../docs/images/branching-flow-example.png)
 
 ## Continuous delivery/deployment on release
