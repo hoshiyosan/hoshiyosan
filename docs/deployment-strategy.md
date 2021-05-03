@@ -1,6 +1,9 @@
 # Deployment Strategy
 
-_In this document, I describe deployment strategy used for this whole GitHub organization and the reasons that motivated theses choices._
+_In this document, I describe deployment strategy used for this whole GitHub organization and the reasons that motivated theses choices. For a concrete example of how to implement this strategy, please read the [deployment process](./deployment-process.md).
+
+
+## Foreword
 
 _To be efficient the deployment process_
 
