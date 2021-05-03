@@ -5,8 +5,8 @@ _In this document, I describe deployment strategy used for this whole GitHub org
 _To be efficient the deployment process_
 
 - must be simple enough so that deploying a new application take at most 10 mn.
-- must be have centralized configuration so that it can be re-deployed from scratch automatically.
-- must rely on continuous deployment so that running application is always up to date.
+- must have centralized configuration so that it can be re-deployed from scratch automatically.
+- must rely on continuous deployment so that running applications are always up to date.
 
 ## Releases tagging
 
