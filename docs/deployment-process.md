@@ -1,3 +1,3 @@
 # Deployment Process
 
-This document explains how to implement [organization deployment strategy](./deployment-strategy.md)
+_This document explains how to implement [organization's deployment strategy](./deployment-strategy.md)._
