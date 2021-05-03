@@ -12,8 +12,8 @@ We are going to follow semantic versionning.
 
 ## Continuous delivery
 
-![continuous-delivery-pipeline](docs/images/continuous-delivery-pipeline.png)
+![continuous-delivery-pipeline](../docs/images/continuous-delivery-pipeline.png)
 
 ## Continuous deployment
 
-![continuous-deployment-pipeline](docs/images/continuous-deployment-pipeline.png)
+![continuous-deployment-pipeline](../docs/images/continuous-deployment-pipeline.png)
