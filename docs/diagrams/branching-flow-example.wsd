@@ -1,0 +1,22 @@
+@startuml "branching-flow-example"
+hide footbox
+
+participant "feature/1" as feature1
+participant "feature/2" as feature2
+participant "feature/3" as feature3
+participant "bugfix/1" as bugfix1
+
+group sprint 1
+    feature1 -> develop: merge fresh feature
+    feature2 -> develop: merge fresh feature
+    develop -> develop: test merged features
+    develop -> main: merge tested features
+end
+
+group sprint 2
+    bugfix1 -> develop: merge bugfix
+    feature3 -> develop: merge fresh feature
+    develop -> develop: test merged features
+    develop -> main: merge tested features
+end
+@enduml
