@@ -1,0 +1,20 @@
+@startuml "deployment-flow"
+hide footbox
+
+actor Developer as developer
+participant "Delivery\nworkflow" as github1
+participant "Docker\nregistry" as registry
+participant "Deployment\nworkflow" as github2
+participant "K3S cluster" as k3s
+
+developer -> github1: Create release X.Y.Z
+github1 -> github1: Build docker image AMD/ARM
+github1 -> registry: Publish docker image\nX.Y.Z for AMD/ARM
+registry --> github1: done
+
+github1 -> github2: Trigger deployment workflow
+
+github2 -> k3s: deploy k8s stack
+k3s -> registry: pull docker image X.Y.Z
+registry --> k3s: docker image
+@enduml
