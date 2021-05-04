@@ -10,7 +10,7 @@ They are hosted on a kubernetes cluster of 3 nodes made of raspberry pi.
 
 *Say hello to raspberry pi kubernetes cluster*
 
-#### Table of contents
-
 * [Organization deployment process](docs/deployment-process.md)
 * [Organization deployments strategy](docs/deployment-strategy.md)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=sylvanld)
