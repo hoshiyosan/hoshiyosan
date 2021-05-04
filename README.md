@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-|||
+||raspberry cluster hosting personal projects|
 |-|-|
-||![raspberry cluster hosting personal projects](docs/images/raspberry.jpg)|
-
-*Welcome on my GitHub profile, find below information concerning organization of my repositories*
+|*Welcome on my GitHub profile, find below information concerning organization of my repositories*
 
 * [Organization deployment process](docs/deployment-process.md)
-* [Organization deployments strategy](docs/deployment-strategy.md)
+* [Organization deployments strategy](docs/deployment-strategy.md)|![raspberry cluster hosting personal projects](docs/images/raspberry.jpg)|
+
+
