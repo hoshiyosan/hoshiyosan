@@ -2,9 +2,12 @@
 
 *Welcome on my GitHub profile, find below information concerning organization of my repositories*
 
-Many of the projects maintained here are showcased at https://sylvan.ovh. They are hosted on a kubernetes cluster of 3 nodes made of raspberry pi.
+Many of the projects maintained here are showcased at https://sylvan.ovh.
+
+They are hosted on a kubernetes cluster of 3 nodes made of raspberry pi.
 
 ![raspberry cluster hosting personal projects](docs/images/raspberry.jpg)
+
 *Say hello to raspberry pi kubernetes cluster*
 
 #### Table of contents
