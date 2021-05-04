@@ -6,6 +6,8 @@ _This document explains how to implement [organization's deployment strategy](./
 
 ## Configure kubernetes deployment on release
 
+## Describe your deployment using K8S yaml file
+
 Create a file describing your kubernetes deployment in the project repository.
 
 _Example of a kubernetes config file to deploy a webapp_
