@@ -2,7 +2,6 @@
 
 _In this document, I describe deployment strategy used for this whole GitHub organization and the reasons that motivated theses choices. For a concrete example of how to implement this strategy, please read the [deployment process](./deployment-process.md)._
 
-
 ## Foreword
 
 _To be efficient the deployment process_
@@ -26,8 +25,8 @@ We are going to follow semantic versionning.
 
 _Example of branching flow for 2 sprints_
 
-![](../docs/images/branching-flow-example.png)
+![](./images/branching-flow-example.png)
 
 ## Continuous delivery/deployment on release
 
-![deployment-flow](../docs/images/deployment-flow.png)
+![deployment-flow](./images/deployment-flow.png)
