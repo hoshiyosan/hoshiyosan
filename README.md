@@ -12,5 +12,3 @@ They are hosted on a kubernetes cluster of 3 nodes made of raspberry pi.
 ![raspberry cluster hosting personal projects](docs/images/raspberry.jpg)
 
 *Say hello to raspberry pi kubernetes cluster*
-
-![github stats](https://github-readme-stats.vercel.app/api?username=sylvanld)
