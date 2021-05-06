@@ -6,4 +6,5 @@
 * [Organization deployments strategy](docs/deployment-strategy.md)
 
 Many of the projects maintained here are showcased at https://sylvan.ovh.
+
 They are hosted on a kubernetes cluster of 3 nodes made of raspberry pi.
